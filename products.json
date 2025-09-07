@@ -1,0 +1,17 @@
+[
+  {
+    "name": "gear shifter",
+    "price": "$5",
+    "image": "images/fidget1.jpg"
+  },
+  {
+    "name": "flex waffle",
+    "price": "$10",
+    "image": "images/robot.jpg"
+  },
+  {
+    "name": "keyshain",
+    "price": "$3",
+    "image": "images/cube.jpg"
+  }
+]
